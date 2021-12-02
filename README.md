@@ -133,6 +133,7 @@ requests, you can raise an issue at the [issue page][issue]. You can also contac
 
 ## <a name="cite"></a>Citing metaprob2
 If you use MetaProb 2 in your work, please cite:
+
 Andreace F., Pizzi C., Comin M. (2021) MetaProb 2: Improving Unsupervised Metagenomic Binning with Efficient Reads Assembly Using Minimizers. 
 In Computational Advances in Bio and Medical Sciences. ICCABS 2020. Lecture Notes in Computer Science, vol 12686,  pp 15-25. https://doi.org/10.1007/978-3-030-79290-9_2
 
